@@ -9,5 +9,5 @@ This project explores the integration of Artificial Intelligence (AI) and cybers
 1. Collect data from academic (articles, journals, etc.) or regulative sources (policy documents).
 2. Analyze and compare the data from different countries and fields.
 
-##Expected Results
+## Expected Results
 After conducting this survey, we expect to conclude the differences of perspectives and integration of AI and Cybersecurity policies in different levels and fields.
