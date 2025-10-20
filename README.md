@@ -26,6 +26,7 @@ https://www.sciencedirect.com/science/article/pii/S254266052400369X
 
 
 Steering the governance of artificial intelligence: national strategies in perspective:https://academic.oup.com/policyandsociety/article/40/2/178/6509308
+
 The Chinese approach to artificial intelligence: an analysis of policy, ethics, and regulation: https://link.springer.com/content/pdf/10.1007/s00146-020-00992-2
 
 
