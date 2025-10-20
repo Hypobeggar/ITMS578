@@ -49,15 +49,11 @@ Organizational Adaptation to Generative AI in Cybersecurity: A Systematic Review
 https://arxiv.org/abs/2506.12060
 
 
-The Role of Data Protection and Cybersecurity Regulations in Artificial
-Intelligence Global Governance
-
-
+The Role of Data Protection and Cybersecurity Regulations in ArtificialIntelligence Global Governance:
 https://www.etd.ceu.edu/2021/alic_dalia.pdf
 
 
 Developing Cybersecurity Programs and Policies in an AI-Driven World
-
 https://books.google.com/books?hl=en&lr=&id=tSbQEAAAQBAJ&oi=fnd&pg=PA26872&dq=Global+Policies+on+Ai+Integration+and+Cybersecurity&ots=eWzL2XAzM4&sig=CkglE-E2EUC2dY201JgYSAgHAWo#v=onepage&q=Global%20Policies%20on%20Ai%20Integration%20and%20Cybersecurity&f=false
 
 
@@ -69,9 +65,7 @@ https://www.researchgate.net/profile/Anfo-Pub-2/publication/391901838_Artificial
 
 
 Artificial Intelligence's Role in Cybersecurity and Global DynamicsArtificial Intelligence's Role in Cybersecurity and Global Dynamics
-
 https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1029&context=mwais2024
+
 Impact of AI on cybersecurity and security compliance
-
-
 https://www.researchgate.net/profile/Adebola-Folorunso/publication/385558741_Impact_of_AI_on_cybersecurity_and_security_compliance/links/672aa97677b63d1220dce1fe/Impact-of-AI-on-cybersecurity-and-security-compliance.pdf
