@@ -13,6 +13,8 @@ This project explores the integration of Artificial Intelligence (AI) and cybers
 After conducting this survey, we expect to conclude the differences of perspectives and integration of AI and Cybersecurity policies in different levels and fields.
 
 
+## Recording
+https://www.loom.com/share/15ad701126be49f38a5e3d0054bcbf10?sid=c9389bbd-3c08-4d0e-8457-4e039e7c7471
 
 ## Sources
 Artificial (intelligent) agents and active cyber defence: Policy implications
